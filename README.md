@@ -9,21 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=xeno2410&label=Profile%20views&color=0e75b6&style=flat" alt="xeno2410" /> 
 </p>
 
-<!-- GitHub Profile Trophy -->
- <!-- <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=xeno2410&theme=onedark" alt="xeno2410" />
-  </a> 
-</p> -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=XENO2410&theme=dracula&margin-w=30&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- Connect with Me Section -->
-<!-- <h3 align="left" style="color: #ffffff;">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/tarun kumar sharma" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun kumar sharma" height="30" width="40" />
-  </a>
-</p> -->
 
 <!-- Languages and Tools Section -->
 <h3 align="left" style="color: #ffffff;">Languages and Tools:</h3>
