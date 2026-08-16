@@ -4,10 +4,6 @@
 <h1 align="center" style="color: #ffffff;">Hi 👋, I'm John Rodriguez</h1>
 <h3 align="center" style="color: #ffffff;">Estudiante de ING.DE SISTEMAS en la Universidad de La Guajira</h3>
 
-<!-- Profile Views Section -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=xeno2410&label=Profile%20views&color=0e75b6&style=flat" alt="xeno2410" /> 
-</p>
 
 
 
