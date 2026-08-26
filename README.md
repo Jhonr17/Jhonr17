@@ -4,28 +4,6 @@
 <h1 align="center" style="color: #ffffff;">Hi 👋, I'm John Rodriguez</h1>
 <h3 align="center" style="color: #ffffff;">Estudiante de ING.DE SISTEMAS en la Universidad de La Guajira</h3>
 
-
-
-
-<!-- Languages and Tools Section -->
-<h3 align="left" style="color: #ffffff;">Languages and Tools:</h3>
-<p align="left"> 
-  
-
-  
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  
-
-</p>
-
-
-
 <!-- Parrot GIFs -->
 </br>
 <div align="center">
